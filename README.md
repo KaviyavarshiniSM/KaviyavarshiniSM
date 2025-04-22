@@ -8,7 +8,7 @@ Computer Science Engineering Student
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: "Hello, World!" was my first love letter to programming...
 - 📫 How to reach me :
-  <br /> [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />](https://www.linkedin.com/in/malini-samy)
+  <br /> [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />](www.linkedin.com/in/kaviyavarshini-s-b36173280)
   
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
